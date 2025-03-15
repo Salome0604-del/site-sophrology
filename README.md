@@ -65,7 +65,7 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
     <div class="container" id="services">
         <h2>Mes Services</h2>
         <ul>
-            <li>Accompagnement energetique individuel (psychothéreapie)</li>
+            <li>Accompagnement energetique individuel (psychotherapie)</li>
             <li>Relaxation et sophrologie</li>
             <li>Gestion des emotions et du stress</li>
             <li>Preparation aux examens</li>
@@ -87,7 +87,7 @@ Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès mainte
         <p>Contactez-moi par telephone.</p>
     </div>
     <footer>
-        &copy; 2025 Isabelle Tessier - Sophrologue, Psychothérapie - Tous droits réservés
+        &copy; 2025 Isabelle Tessier - Sophrologue, Psychotherapie - Tous droits reserves
     </footer>
 </body>
 </html>

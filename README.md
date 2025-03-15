@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Isabelle Tessier - Sophrologue, Psychothérapie</title>
+    <title>Isabelle Tessier - Sophrologue, Psychotherapie</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -43,7 +43,7 @@
 </head>
 <body>
     <header>
-        Isabelle Tessier - Sophrologue, Psychothérapie
+        Isabelle Tessier - Sophrologue, Psychotherapie
     </header>
     <nav>
         <a href="#accueil">Accueil</a>
@@ -54,7 +54,12 @@
     </nav>
     <div class="container" id="accueil">
         <h1>Bienvenue dans un espace de bien-etre et d'ecoute</h1>
-        <p>Je vous accompagne avec bienveillance vers un mieux-etre grace à la sophrologie et l'accompagnement energetique.</p>
+        <p>Sophrologue certifiee, et je vous invite à un voyage vers un mieux-etre physique et mental. A travers des techniques de sophrologie, de relaxation, de respiration et de visualisation, je vous aide à liberer les tensions et a retrouver une harmonie interieure.
+Afin de mieux gerer votre stress et vos emotions, ameliorer votre sommeil, renforcer votre confiance en vous, vous préparer à des eevenements stressants (examens, competitions, prise de parole…) ou simplement vous offrir un moment d’apaisement et de relaxation, la sophrologie est une methode douce et accessible à tous.
+Au cours de seances, j'accompagne avec bienveillance dans un cadre propice à l’éceoute, au lâcaher-prise et à la transformation positive. J’accueille tout public avec soin et attention, pour vous aider a (re)trouver harmonie et serenite dans votre quotidien.
+N’hesitez pas à me contacter pour en savoir plus ou reserver une seance !
+
+Envie d’en savoir plus ou de réserver une séance ? Contactez-moi dès maintenant !.</p>
         <img src="relaxation.jpg" alt="Image de relaxation" width="80%">
     </div>
     <div class="container" id="services">
